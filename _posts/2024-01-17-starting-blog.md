@@ -5,6 +5,9 @@ date: 2022-01-28 09:01:00 +0900
 categories: diary
 tag: [blog, jekyll]
 toc: true
+toc_sticky: true
+toc_label: content
+toc_icon: "fa-magnifying-glass"
 author_profile: false
 sidebar:
   nav: "docs"

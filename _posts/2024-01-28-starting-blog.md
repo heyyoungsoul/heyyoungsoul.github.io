@@ -18,9 +18,8 @@ tag: blog # [diary, blog]
 </div>
 {: .notice--info}
 
-# SOTD
+# Song of the Day
 
-Song of the Day
 {% include video id="tEFhicnP-eE" provider="youtube" %}
 
 # Why Blog

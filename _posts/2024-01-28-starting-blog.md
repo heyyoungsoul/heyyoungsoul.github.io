@@ -9,6 +9,8 @@ tag: diary # [diary, blog]
 # use_math: false
 ---
 
+<head>
+</head>
 <!-- ## Kor -->
 
 <!-- 한줄공지 -->
@@ -16,15 +18,14 @@ tag: diary # [diary, blog]
 {: .notice--success} -->
 
 <!-- 여러줄공지/개요 -->
-<!-- <div class="notice">
-<h4>목표</h4>
+<div class="notice">
+<h4>Goal</h4>
 <ul>
-    <li>목표1. </li>
-    <li>목표2. </li>
-    <li>목표3. </li>
+    <li>G1. Setup Github blog for <strong><i>TIL(Today I Learned)</i></strong></li>
+    <li>G2. Setup YouTube channel for <strong><i>Study with Me</i></strong></li>
 </ul>
 </div>
-{: .notice--info} -->
+{: .notice--info}
 
 # Why Blog?
 

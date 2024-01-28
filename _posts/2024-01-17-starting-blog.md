@@ -5,6 +5,10 @@ date: 2022-01-17 09:01:00 +0900
 categories: diary
 tag: [blog, jekyll]
 toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
+# search: false
 ---
 
 ## Kor

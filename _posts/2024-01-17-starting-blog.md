@@ -11,25 +11,20 @@ sidebar:
 # search: false
 ---
 
-<!-- 한 줄 공지 -->
+## Kor
 
 **[Notice]** 공지사항입니다.
 {: .notice--success}
 
-<!-- 여러 줄 공지 - 개요로 사용 -->
 <div class="notice">
-<h4>개요</h4>
+<h4>목표</h4>
 <ul>
-    <li>목록1</li>
-    <li>목록2</li>
-    <li>목록3</li>
+    <li>목표1. </li>
+    <li>목표2. </li>
+    <li>목표3. </li>
 </ul>
 </div>
 {: .notice--info}
-
-<!-- 한글 -->
-
-## Kor
 
 **블로그** 시작해볼까.
 
@@ -38,6 +33,19 @@ sidebar:
 <!-- 영어 -->
 
 ## Eng
+
+**[Notice]** 공지사항입니다.
+{: .notice--success}
+
+<div class="notice">
+<h4>Goal</h4>
+<ul>
+    <li>G1. </li>
+    <li>G2. </li>
+    <li>G3. </li>
+</ul>
+</div>
+{: .notice--info}
 
 Let's start a **blog**.
 

@@ -10,7 +10,7 @@ tag: [blog, jekyll]
 
 시작해볼까.
 
-![cat](../images/2024-01-17-first-post/busy-cat.gif)
+<!-- ![cat](../images/2024-01-17-first-post/busy-cat.gif) -->
 
 <!-- ```python
 print("Hello, world!")

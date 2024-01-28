@@ -1,10 +1,9 @@
 ---
 layout: single
 title: "jupyter notebook 변환 예제"
-categories: coding
-tag: [python, jupyter]
-toc: true
-author_profile: false
+date: 2024-01-25 09:01:00 +0900
+# categories: analysis
+tag: [statistics, python, jupyter]
 ---
 
 <head>

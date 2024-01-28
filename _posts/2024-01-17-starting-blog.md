@@ -13,10 +13,12 @@ sidebar:
 
 ## Kor
 
-**[Notice]** 공지사항입니다.
-{: .notice--success}
+<!-- 한줄공지 -->
+<!-- **[Notice]** 공지사항입니다.
+{: .notice--success} -->
 
-<div class="notice">
+<!-- 여러줄공지/개요 -->
+<!-- <div class="notice">
 <h4>목표</h4>
 <ul>
     <li>목표1. </li>
@@ -24,20 +26,22 @@ sidebar:
     <li>목표3. </li>
 </ul>
 </div>
-{: .notice--info}
+{: .notice--info} -->
 
 **블로그** 시작해볼까.
 
 ![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif)
 
-<!-- 영어 -->
+---
 
 ## Eng
 
-**[Notice]** 공지사항입니다.
-{: .notice--success}
+<!-- 한줄공지 -->
+<!-- **[Notice]** This is important.
+{: .notice--success} -->
 
-<div class="notice">
+<!-- 여러줄공지/개요 -->
+<!-- <div class="notice">
 <h4>Goal</h4>
 <ul>
     <li>G1. </li>
@@ -45,18 +49,22 @@ sidebar:
     <li>G3. </li>
 </ul>
 </div>
-{: .notice--info}
+{: .notice--info} -->
 
 Let's start a **blog**.
 
 ![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif)
 
-[Button](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes){: .btn .btn--danger}
+<!-- 버튼 -->
+<!-- [Button](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes){: .btn .btn--danger} -->
 
-{% include video id="uTuuz__8gUM" provider="youtube" %}
+<!-- 유투브 -->
+<!-- {% include video id="uTuuz__8gUM" provider="youtube" %} -->
 
-![sleepy-cat]({{site.url}}/images/2024-01-17-starting-blog/sleepy-cat.gif)
+<!-- 이미지(절대경로) -->
+<!-- ![sleepy-cat]({{site.url}}/images/2024-01-17-starting-blog/sleepy-cat.gif) -->
 
+<!-- 코드 -->
 <!-- ```python
 print("Hello, world!")
 ``` -->

@@ -8,8 +8,8 @@ main:
     url: /tags/
   - title: "Year"
     url: /year-archive/
-  - title: "Year(grid)"
-    url: /year-archive-grid/
+  # - title: "Year(grid)"
+  #   url: /year-archive-grid/
   - title: "Search"
     url: /search/
   # - title: "Quick-Start Guide"

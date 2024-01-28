@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: "https://heyyoungsoul.github.io"
   - title: "Category"
-    url: /categoriees/
+    url: /categories/
   - title: "Search"
     url: /search/
   # - title: "Quick-Start Guide"

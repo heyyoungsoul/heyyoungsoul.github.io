@@ -1,5 +1,5 @@
 ---
-title: "Year (grid view)"
+title: "Posts by Year (grid view)"
 permalink: /year-archive-grid/
 layout: posts
 entries_layout: grid

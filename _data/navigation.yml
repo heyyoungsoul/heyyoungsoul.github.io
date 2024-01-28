@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
-  - title: "Tag"
+  - title: "Home"
+    url: { { site.url } }
+  - title: "About"
     url: /tags/
-  - title: "Search"
+  - title: "fa-solid fa-magnifying-glass"
     url: /search/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

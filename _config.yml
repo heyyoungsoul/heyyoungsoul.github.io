@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name: "heyyoungsoul"
-  avatar: /images/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: {{site.url}}/images/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "study-notes"
   location: "Seoul, South Korea"
   email:

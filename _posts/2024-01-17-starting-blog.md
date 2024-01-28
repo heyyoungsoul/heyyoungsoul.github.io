@@ -26,8 +26,7 @@ tag: [blog, jekyll]
 
 **블로그** 시작해볼까.
 
-![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif)
-{: .img-width-half .align-center}
+![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center}
 
 ---
 

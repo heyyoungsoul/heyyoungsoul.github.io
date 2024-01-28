@@ -8,7 +8,7 @@ tag: [diary, blog]
 # use_math: false
 ---
 
-## Kor
+<!-- ## Kor -->
 
 <!-- 한줄공지 -->
 <!-- **[Notice]** 공지사항입니다.
@@ -25,9 +25,14 @@ tag: [diary, blog]
 </div>
 {: .notice--info} -->
 
-**블로그** 시작해볼까.
+## Starting a blog
+
+블로그 시작해볼까.
 
 ![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center}
+
+공부해야할 것과 공부하고 싶은 것들이 산더미야.
+블로그에 정리하면서 차근차근 꾸준히 해보자.
 
 <!-- --- -->
 
@@ -56,7 +61,10 @@ tag: [diary, blog]
 <!-- [Button](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes){: .btn .btn--danger} -->
 
 <!-- 유투브 -->
-<!-- {% include video id="uTuuz__8gUM" provider="youtube" %} -->
+
+## Song of the Day
+
+{% include video id="tEFhicnP-eE" provider="youtube" %}
 
 <!-- 이미지(절대경로) -->
 <!-- ![sleepy-cat]({{site.url}}/images/2024-01-28-starting-blog/sleepy-cat.gif) -->

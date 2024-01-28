@@ -290,10 +290,10 @@ defaults:
       share: true
       related: true
       show_date: true
-      toc: true
-      toc_sticky: true
-      toc_label: content
-      toc_icon: "fas fa-utensils"
+      # toc: true
+      # toc_sticky: true
+      # toc_label: content
+      # toc_icon: "fas fa-utensils"
       author_profile: false
       sidebar:
         nav: "counts"

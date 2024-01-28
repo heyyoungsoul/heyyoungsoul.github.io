@@ -5,8 +5,9 @@ date: 2024-01-28 09:01:00 +0900
 # categories: personal
 tag: [diary, blog]
 toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"
+toc_sticky: true
+toc_label: content
+toc_icon: "fas fa-utensils"
 # search: false
 # use_math: false
 ---
@@ -36,37 +37,6 @@ toc_icon: "heart"
 
 공부해야할 것과 공부하고 싶은 것들이 산더미야.
 블로그에 정리하면서 차근차근 꾸준히 해보자.
-
-## Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
-
-_This is emphasized_. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-- Item one
-- Item two
-- Item three
 
 <!-- --- -->
 

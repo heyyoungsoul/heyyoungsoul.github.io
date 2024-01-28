@@ -296,6 +296,6 @@ defaults:
       toc_icon: "fas fa-utensils"
       author_profile: false
       sidebar:
-        nav: "docs"
+        nav: "counts"
 
 date_format: "%Y-%m-%d"

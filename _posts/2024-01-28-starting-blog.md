@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "New Year's Resolution"
-date: 2022-01-28 09:01:00 +0900
+date: 2024-01-28 09:01:00 +0900
 categories: diary
 # tag: [blog, jekyll]
 # search: false

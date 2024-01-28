@@ -7,7 +7,7 @@ tag: [blog, jekyll]
 toc: true
 toc_sticky: true
 toc_label: content
-toc_icon: "fa-magnifying-glass"
+toc_icon: "fa-solid fa-magnifying-glass"
 author_profile: false
 sidebar:
   nav: "docs"

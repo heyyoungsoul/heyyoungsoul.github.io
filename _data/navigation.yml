@@ -18,9 +18,21 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: "Menu"
-  - children:
-      - title: "Category"
-        url: /categories/
-      - title: "Tag"
-        url: /tags/
+  - title: "Unity C#"
+    url: /categories/unity
+  - title: "Python"
+    url: /categories/python
+  - title: "Machine Learning"
+    url: /categories/ML
+  - title: "WSL"
+    url: /categories/wsl
+  - title: "Git"
+    url: /categories/git
+  - title: "blog"
+    url: /categories/blog
+  - title: "Blender"
+    url: /categories/blender
+  - title: "Nuke"
+    url: /categories/nuke
+  - title: "diary"
+    url: /categories/diary

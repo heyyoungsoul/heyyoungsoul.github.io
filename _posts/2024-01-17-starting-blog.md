@@ -51,6 +51,10 @@ Let's start a **blog**.
 
 ![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif)
 
+[Button](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes){: .btn .btn--danger}
+
+{% include video id="uTuuz__8gUM" provider="youtube" %}
+
 <!-- ![busy-cat](../images/2024-01-17-starting-blog/busy-cat.gif) -->
 
 <!-- ```python

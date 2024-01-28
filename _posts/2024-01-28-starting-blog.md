@@ -26,7 +26,7 @@ use_math: true
 </div>
 {: .notice--info} -->
 
-## Why Blog?
+# Why Blog?
 
 블로그 시작해볼까.
 
@@ -63,7 +63,7 @@ use_math: true
 
 <!-- 유투브 -->
 
-## SOTD
+# SOTD
 
 Song of the Day
 {% include video id="tEFhicnP-eE" provider="youtube" %}

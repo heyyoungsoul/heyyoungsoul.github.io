@@ -77,7 +77,7 @@ font-size: 0.8rem !important;
   </style>
 </head>
 
-**Data Preparation**
+# **Data Preparation**
 
 ```python
 import pandas as pd
@@ -151,7 +151,7 @@ print("\nFake Data:")
 print(fake_data)
 ```
 
-**Normality Testing**
+# **Normality Testing**
 
 - 데이터가 충분한 지 보는 것.
 
@@ -459,7 +459,7 @@ Fake Data: ✔ (Shapiro-Wilk test statistic: 1.0, p-value: 1.0)
 
 결과: c_easy_modification, c_easy_modification 제외하면 모두 normally distributed. 하지만, 샘플 수가 너무 작아서 Parametric을 하면 안됨.
 
-**One Sample T-Test**
+# **One Sample T-Test**
 
 ```python
 from scipy.stats import ttest_1samp
@@ -575,7 +575,7 @@ T-test 결과: c_camera_manipulation를 제외하고는 모든 변수가 statist
 
 하지만, 앞서 말한대로 샘플 수가 작아서 Non-parametric인 Wilcoxon signed-rank test를 해보기로 한다.
 
-**Wilcoxon signed-rank test**
+# **Wilcoxon signed-rank test**
 
 ```python
 from scipy.stats import wilcoxon

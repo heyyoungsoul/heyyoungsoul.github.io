@@ -3,8 +3,9 @@ layout: single
 title: "New Year's Resolution"
 date: 2022-01-28 09:01:00 +0900
 categories: diary
-tag: [blog, jekyll]
+# tag: [blog, jekyll]
 # search: false
+# use_math: false
 ---
 
 ## Kor
@@ -58,7 +59,7 @@ Let's start a **blog**.
 <!-- {% include video id="uTuuz__8gUM" provider="youtube" %} -->
 
 <!-- 이미지(절대경로) -->
-<!-- ![sleepy-cat]({{site.url}}/images/2024-01-17-starting-blog/sleepy-cat.gif) -->
+<!-- ![sleepy-cat]({{site.url}}/images/2024-01-28-starting-blog/sleepy-cat.gif) -->
 
 <!-- 코드 -->
 <!-- ```python

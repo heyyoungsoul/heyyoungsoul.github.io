@@ -68,10 +68,10 @@ print("Hello, world!")
 
 # VSCode Extension
 
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [markdown paste enhanced](https://marketplace.visualstudio.com/items?itemName=dzylikecode.md-paste-enhanced)
+- Yu Zhang, [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- dzylikecode, [markdown paste enhanced](https://marketplace.visualstudio.com/items?itemName=dzylikecode.md-paste-enhanced)
   - Settings: Path를 {currentFileDir}/assets에서 /${projectRoot}/images/${currentFileNameWithoutExt}로 변경.
-- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- Henning Dieterichs, [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
 # Link for Management
 
@@ -89,3 +89,4 @@ print("Hello, world!")
 - 테디노트, [주피터 노트북(.ipynb)을 블로그 콘텐츠로 1분만에 변환하기](https://youtu.be/g4TgmY5VK-A?si=mh8q_RVASoCfnO9z)
 - Michael Rose, [Minimal Mistakes](https://github.com/topics/jekyll-theme)
 - Michael Rose, [Minimal Mistakes Documentation](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+- 박병수, [깃허브 블로그 다국어 지원하기](https://byeongsupark.github.io/blog/multilingual-github-page/jekyll-with-polyglot)

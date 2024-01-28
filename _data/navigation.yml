@@ -4,7 +4,7 @@ main:
     url: "https://heyyoungsoul.github.io"
   - title: "About"
     url: /tags/
-  - title: "Search"
+  - title: "fas fa-search"
     url: /search/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

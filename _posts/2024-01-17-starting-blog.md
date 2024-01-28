@@ -11,13 +11,15 @@ toc: true
 
 **블로그** 시작해볼까.
 
-![busy-cat](../images/2024-01-17-starting-blog/busy-cat.gif)
+![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif)
 
 ## Eng
 
 Let's start a **blog**.
 
-![busy-cat](../images/2024-01-17-starting-blog/busy-cat.gif)
+![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif)
+
+<!-- ![busy-cat](../images/2024-01-17-starting-blog/busy-cat.gif) -->
 
 <!-- ```python
 print("Hello, world!")

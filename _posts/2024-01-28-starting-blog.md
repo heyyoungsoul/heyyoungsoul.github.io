@@ -29,9 +29,9 @@ tag: [diary, blog]
 
 ![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center}
 
----
+<!-- --- -->
 
-## Eng
+<!-- ## Eng -->
 
 <!-- 한줄공지 -->
 <!-- **[Notice]** This is important.
@@ -48,9 +48,9 @@ tag: [diary, blog]
 </div>
 {: .notice--info} -->
 
-Let's start a **blog**.
+<!-- Let's start a **blog**. -->
 
-![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center}
+<!-- ![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center} -->
 
 <!-- 버튼 -->
 <!-- [Button](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes){: .btn .btn--danger} -->

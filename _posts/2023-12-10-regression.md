@@ -3,7 +3,7 @@ layout: single
 title: "머신러닝 회귀 예측"
 date: 2023-12-10 09:01:00 +0900
 categories: ML
-use_math: false
+use_math: true
 ---
 
 <head>

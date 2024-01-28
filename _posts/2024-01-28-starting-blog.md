@@ -50,7 +50,7 @@ categories: diary
 
 Let's start a **blog**.
 
-![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif)
+![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center}
 
 <!-- 버튼 -->
 <!-- [Button](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes){: .btn .btn--danger} -->

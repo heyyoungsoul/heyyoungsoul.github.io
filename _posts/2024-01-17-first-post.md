@@ -2,6 +2,8 @@
 layout: single
 title: "새해맞이"
 date: 2022-01-17 09:01:00 +0900
+categories: diary
+tag: [blog, jekyll]
 ---
 
 **블로그**

@@ -4,10 +4,6 @@ title: "New Year's Resolution"
 date: 2024-01-28 09:01:00 +0900
 # categories: personal
 tag: [diary, blog]
-toc: true
-# toc_sticky: true
-# toc_label: content
-# toc_icon: "fas fa-utensils"
 # search: false
 # use_math: false
 ---

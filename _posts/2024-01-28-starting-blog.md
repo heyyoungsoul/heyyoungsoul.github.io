@@ -25,7 +25,7 @@ tag: [diary, blog]
 </div>
 {: .notice--info} -->
 
-## Starting a blog
+## Why Blog?
 
 블로그 시작해볼까.
 
@@ -62,8 +62,9 @@ tag: [diary, blog]
 
 <!-- 유투브 -->
 
-## Song of the Day
+## SOTD
 
+Song of the Day
 {% include video id="tEFhicnP-eE" provider="youtube" %}
 
 <!-- 이미지(절대경로) -->

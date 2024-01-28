@@ -68,9 +68,10 @@ print("Hello, world!")
 
 # VSCode Extension
 
-- dzylikecode, [markdown paste enhanced](https://marketplace.visualstudio.com/items?itemName=dzylikecode.md-paste-enhanced)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [markdown paste enhanced](https://marketplace.visualstudio.com/items?itemName=dzylikecode.md-paste-enhanced)
   - Settings: Path를 {currentFileDir}/assets에서 /${projectRoot}/images/${currentFileNameWithoutExt}로 변경.
-- Henning Dieterichs, [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
 # Link for Management
 
@@ -81,6 +82,7 @@ print("Hello, world!")
 
 # Reference
 
+- DeAndre Queary, [How To Write and Preview Markdown In VScode](https://youtu.be/DLLrcr9u_XI?si=c16WHuNVoP9d34BD)
 - 테디노트, [깃헙(GitHub) 블로그 10분안에 완성하기](https://youtu.be/ACzFIAOsfpM?si=NZhNZz5caZVh19Yl)
 - 테디노트, [깃헙(Github) 블로그 만들기 - 시즌1](https://youtube.com/playlist?list=PLIMb_GuNnFwfQBZQwD-vCZENL5YLDZekr&si=h7CoTkTEBVOvpu9_)
 - 테디노트, [깃헙(Github) 블로그 만들기 - 시즌2](https://youtube.com/playlist?list=PLIMb_GuNnFwfMm3alTSOmDK4AnpdG7USY&si=2pHb7iJ4YHs4pPWq)

@@ -7,19 +7,17 @@ tag: [blog, jekyll]
 toc: true
 ---
 
-# New Year's Resolution
-
 ## Kor
 
 **블로그** 시작해볼까.
 
-![cat](../images/2024-01-17-first-post/busy-cat.gif)
+![busy-cat](../images/2024-01-17-starting-blog/busy-cat.gif)
 
 ## Eng
 
 Let's start a **blog**.
 
-![cat](../images/2024-01-17-first-post/busy-cat.gif)
+![busy-cat](../images/2024-01-17-starting-blog/busy-cat.gif)
 
 <!-- ```python
 print("Hello, world!")

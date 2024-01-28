@@ -55,7 +55,7 @@ Let's start a **blog**.
 
 {% include video id="uTuuz__8gUM" provider="youtube" %}
 
-<!-- ![busy-cat](../images/2024-01-17-starting-blog/busy-cat.gif) -->
+![sleepy-cat]({{site.url}}/images/2024-01-17-starting-blog/sleepy-cat.gif)
 
 <!-- ```python
 print("Hello, world!")

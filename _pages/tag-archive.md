@@ -6,12 +6,14 @@ author_profile: true
 sidebar_main: true
 ---
 
-<!-- Unity C#
-Python
-Machine Learning
+<!-- ---
+Unity
+python
+ML
 WSL
 Git
 blog
 Blender
 Nuke
-diary -->
+diary
+--- -->

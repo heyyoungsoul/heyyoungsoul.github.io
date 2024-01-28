@@ -33,6 +33,6 @@ docs:
 
 counts:
   - title: "Category"
-    use: true
+    use: false
   - title: "Tag"
     use: true

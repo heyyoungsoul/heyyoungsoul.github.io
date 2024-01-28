@@ -2,8 +2,8 @@
 layout: single
 title: "머신러닝 회귀 예측"
 date: 2023-12-10 09:01:00 +0900
-categories: ML
-tag: [blog]
+# categories: study
+tag: ML
 use_math: true
 ---
 

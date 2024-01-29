@@ -89,9 +89,53 @@ toc_icon: "fas fa-utensils"
     ```
     -> 이 때 vs code에 필요한 것들이 설치됨
 
-## 3. 윈도우 터미널 zsh로 커스터마이징하기
+## 3. 윈도우 터미널 커스터마이징하기(zsh, oh my zsh, powerlevel10k, terminal splash)
 
-(To be continued)
+### 3-1. bash셀을 zsh셀로 바꾸기
+
+- [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) 설치
+  ```
+  sudo apt install zsh
+  ```
+
+### 3-2. oh my zsh 설치하기
+
+- [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) 설치
+  ```
+  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  ```
+
+### 3-3. winndow terminal 디폴트 color scheme 적용해보기
+
+- Json.setting 파일 열기
+- [window terminal color scheme](https://learn.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes)에서 맘에 드는 color scheme 찾기
+- 적용하기
+
+```json
+"colorScheme": "Campbell Powershell"
+```
+
+### 3-4. terminal splash를 이용해 더 예쁜 color scheme 적용하기
+
+- [terminal splash](https://terminalsplash.com/)에서 맘에 드는 테마 찾기
+- code 복사해서 schemes의 []안에 넣고 이름을 지정할 것
+
+```json
+"colorScheme": "Campbell Powershell"
+```
+
+- 일괄적용하기 위해 default에 적용할 것
+  -> 그런데 바라던 컬러가 안 나옴. 이건 윈도우 자체 한계 때문임. 따라서 terminal splash에 보이는 컬러를 그대로 적용하려면 powerlevel10k를 깔아야 함.
+
+### 3-5. powerlevel10k 설치하기
+
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k)란, 우리가 설치한 터미널인 zsh 셀을 위한 테마임.
+- oh my zsh를 통해 설치
+  ```
+  sudo git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+  ```
+- activate하려면 ~/.zshrc 파일에서 `ZSH_THEME="powerlevel10k/powerlevel10k"` 라고 설정해줘야함
+  - (To be continued)
 
 ## Reference
 

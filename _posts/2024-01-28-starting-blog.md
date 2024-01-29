@@ -22,11 +22,11 @@ toc_icon: "fas fa-utensils"
 </div>
 {: .notice--info}
 
-# Song of the Day
+## Song of the Day
 
 {% include video id="tEFhicnP-eE" provider="youtube" %}
 
-# Why Blog
+## Why Blog
 
 ![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center}
 
@@ -69,21 +69,21 @@ toc_icon: "fas fa-utensils"
 print("Hello, world!")
 ``` -->
 
-# VSCode Extension
+## VSCode Extension
 
 - Yu Zhang, [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - dzylikecode, [markdown paste enhanced](https://marketplace.visualstudio.com/items?itemName=dzylikecode.md-paste-enhanced)
   - Settings: Path를 {currentFileDir}/assets에서 /${projectRoot}/images/${currentFileNameWithoutExt}로 변경.
 - Henning Dieterichs, [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
-# Link for Management
+## Link for Management
 
 - [Disqus](https://disqus.com/admin/)
 - [Google Analytics](https://marketingplatform.google.com/about/analytics/)
 - [Google Search Console](https://search.google.com/search-console/)
 - [Naver Search Console](https://searchadvisor.naver.com/console/board)
 
-# Reference
+## Reference
 
 - DeAndre Queary, [How To Write and Preview Markdown In VScode](https://youtu.be/DLLrcr9u_XI?si=c16WHuNVoP9d34BD)
 - 테디노트, [깃헙(GitHub) 블로그 10분안에 완성하기](https://youtu.be/ACzFIAOsfpM?si=NZhNZz5caZVh19Yl)

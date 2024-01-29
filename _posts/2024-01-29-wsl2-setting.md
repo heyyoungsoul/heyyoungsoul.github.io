@@ -36,3 +36,11 @@ toc_icon: "fas fa-utensils"
 ## Reference
 
 - 노마드 코더, [개발자를 위한 윈도우 셋업 WSL2, Window Terminal, Ubuntu](https://nomadcoders.co/windows-setup-for-developers)-
+
+{% include codeHeader.html %}
+
+```html
+<div class="code-header">
+  <button class="copy-code-button">Copy code to clipboard</button>
+</div>
+```

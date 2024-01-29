@@ -105,13 +105,13 @@ analytics:
 author:
   name: "heyyoungsoul"
   avatar: /images/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  # bio: "study-notes"
-  # location: "Seoul, South Korea"
+  bio: "study-notes"
+  location: "Seoul, South Korea"
   # email:
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "mailto:heyyoungsoul@gmail.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:heyyoungsoul@gmail.com"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://www.hyeyoungjo.com/"
@@ -121,15 +121,15 @@ author:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   url: "https://www.facebook.com/heyyoungsoul/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/heyyoungsoul"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/heyyoungsoul"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://www.instagram.com/heyyoungsoul/"
-    # - label: "YouTube"
-    #   icon: "fab fa-fw fa-youtube"
-    #   url: "https://www.youtube.com/@heyyoungsoul"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@heyyoungsoul"
 
 # Site Footer
 footer:

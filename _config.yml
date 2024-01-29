@@ -16,9 +16,9 @@ minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "d
 
 # Site Settings
 locale: "en-US" # "kr-KR"
-title: "heyyoungsoul"
-title_separator: "|"
-subtitle: "Today I Learned" # site tagline that appears below site title in masthead
+# title: "heyyoungsoul"
+# title_separator: "|"
+# subtitle: "Today I Learned" # site tagline that appears below site title in masthead
 name: "heyyoungsoul"
 description: "heyyoungsoul study blog."
 url: "https://heyyoungsoul.github.io"

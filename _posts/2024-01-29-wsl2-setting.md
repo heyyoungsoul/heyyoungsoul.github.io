@@ -104,7 +104,9 @@ toc_icon: "fas fa-utensils"
     ```
     -> 이 때 vs code에 필요한 것들이 설치됨
 
-## 3. 윈도우 터미널 커스터마이징하기(zsh, oh my zsh, powerlevel10k, terminal splash)
+## 3. 윈도우 터미널 커스터마이징하기 위한 셋업(zsh, oh my zsh, powerlevel10k, terminal splash)
+
+![terminal-custom-color-scheme.png]({{site.url}}/images/2024-01-29-wsl2-setting/terminal-custom-color-scheme.png)
 
 ### 3-1. bash셀을 zsh셀로 바꾸기
 
@@ -168,7 +170,46 @@ toc_icon: "fas fa-utensils"
     - 예시: y,y,y , rainbow, unicode, 2, 1, 1, 1, 1, 1, 2, concise, no, Instant Prompt(3)
   - wt에서 잘 되는 지 확인
   - vscode에서 잘 되는 지 확인
-    - (To be continued)
+    - view-terminal
+    - setting
+      - Terminal Integrated Shell: Windows 에서 edit in setting.json 클릭
+      - Terminal › Integrated › Default Profile: Windows 여기서 powershell을 Ubuntu-18.04 (WSL) 부분으로 바꿔서 체크.
+      - 만약 드롭다운 선택이 아니라 Edit in setting.json일 경우, "terminal.integrated.defaultProfile.windows": "C:\\Windows\\System32\\wsl.exe"
+      - 혹은 터미널실행하면 터미널의 오른쪽 위 부분에 여러가지 버튼들이 있는데 그 중에 PowerShell이라고 쓰여있는 버튼 오른쪽에 +버튼, 그옆에 아랫방향 화살표가 있는데, 그 화살표 눌러서 '기본 프로필 선택Select Default Profile' 누른 다음 'Ubuntu (WSL)' 누르면 WSL이 기본값으로 설정 됨.
+      - 이때 혹시 완전 똑같지 않으면, 폴더에 파일 없어서 그런 거니까 파일 많은 곳에서 vscode 열어서 확인할 것.
+- 만약, Powerlevel10k의 Configure 설정 다시 하고 싶으면,  
+  `p10k configure`
+
+### 3-6. VSCode의 starting directory도 바꿔주기
+
+- Setting 들어가서 terminal.integrated.cwd 검색
+  - ${fileDirname}
+- 또는 다음과 같이 edit in setting.json
+  - "terminal.integrated.cwd": "${fileDirname}"
+
+### 3-7. WSL의 ls 명령어의 color 초기값 바꾸기
+
+- 윈도우 터미널(즉, z shell)의 configuration 파일을 수정해야함.
+  ```
+  code ~/.zshrc
+  ```
+- 열린 파일 맨끝에 다음을 추가
+
+  ```
+  LS_COLORS="ow=01;36;40" && export LS_COLORS
+  ```
+
+## 4. 윈도우 터미널 커스터마이징하기
+
+- 이제 color scheme을 [terminal splash](https://terminalsplash.com/) 에서 아무거나 맘에 드는 거로 적용하면 다 됨 (e.g., VS Code Windows Terminal)
+
+  - (주의) 헷갈리지 말것:
+
+    - wt(wsl, window powershell 등 포함한 터미널)의 컬러테마은 wt의 +탭 옆 삼각형 눌러서 setting.json가서 바꾸는 것
+    - vscode의 컬러 테마는 Material Theme 익스텐션으로 바꾼 거임
+    - 단, vscode 안의 터미널은 wsl로 설정했기에 그 스타일로 그리고 리눅스로 보이는 거임
+
+  - (To be continued)
 
 ## Reference
 

@@ -84,7 +84,7 @@ toc_icon: "fas fa-utensils"
         "hidden": true,
         "name": "Ubuntu-wsl",
         "source": "CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc",
-        "startingDirectory": "//wsl$/Ubuntu/home/hyeyoung"
+        "startingDirectory": "//wsl$/Ubuntu/home/heyyoungsoul"
     },
     ```
 

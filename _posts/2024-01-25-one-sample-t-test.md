@@ -3,7 +3,7 @@ layout: single
 title: "One Sample T-Test"
 date: 2024-01-25 09:01:00 +0900
 categories:
-  - Python
+  - Statistics
 tag:
   - [Statistics, Python, Jupyter]
 toc: true

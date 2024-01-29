@@ -19,12 +19,16 @@ toc_icon: "fas fa-utensils"
   - 윈도우에서는 .exe 파일 다운로드, 더블클릭, 등등 설치 과정이 번거롭고, 환경변수 설정 에러가 자주 일어남.
 
 - ✨ 윈도우에서 리눅스처럼 간편하게 콘솔로 프로그램 설치하려면? [chocolately](https://community.chocolatey.org/) 사용!
+
   - window powershell 관리자 실행
   - chocolately를 설치
+
     {% include codeHeader.html %}
+
     ```PowerShell
       Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
     ```
+
   - [chocolately package 사이트](https://community.chocolatey.org/packages)에서 패키지명 검색
     - 예시: Adobe acrobat, VLC media player, Python 3.8
   - choco [패키지명]으로 설치.

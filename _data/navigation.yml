@@ -4,12 +4,12 @@ main:
     url: "https://heyyoungsoul.github.io"
   - title: "About"
     url: /about/
-  - title: "Category"
-    url: /categories/
+  # - title: "Category"
+  #   url: /categories/
   # - title: "Tag"
   #   url: /tags/
-  - title: "Year"
-    url: /year-archive/
+  # - title: "Year"
+  #   url: /year-archive/
   # - title: "Year(grid)"
   #   url: /year-archive-grid/
   - title: "Search"

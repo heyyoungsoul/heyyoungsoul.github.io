@@ -30,6 +30,7 @@ toc_icon: "fas fa-utensils"
   - [chocolately package 사이트](https://community.chocolatey.org/packages)에서 패키지명 검색
     - 예시: Adobe acrobat, VLC media player, Python 3.8
   - choco [패키지명]으로 설치.
+    ![choco-package-download]({{site.url}}/images/2024-01-29-wsl2-setting/choco-package-download.png)
 
 ## 2. WSL 설치하기
 
@@ -70,7 +71,7 @@ toc_icon: "fas fa-utensils"
   - [같은 ubuntu wsl2가 버그로 두 개가 생김](https://superuser.com/questions/1737942/different-profiles-of-the-same-wsl2-linux-instance-in-windows-terminal).
     -> 윈도우 디렉토리에 접근 가능한 Wsl꺼를 쓰기로 결정. 하나는 hidden.
     -> 아래는 나의 현재 터미널 세팅의 두 개의 우분투 시작 경로:
-    ![my-starting-directory]({{site.url}}/images/2024-01-29-wsl2-setting/2024-01-29-23-17-22.png)
+    ![my-starting-directory]({{site.url}}/images/2024-01-29-wsl2-setting/my-starting-directory.png)
 
   - 시작경로가 잘 되었는지 체크
     ```

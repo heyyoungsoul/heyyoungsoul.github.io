@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Starting a blog"
+title: "GitHub blog setting"
 date: 2024-01-28 09:01:00 +0900
 categories:
   - GitHub Blog
@@ -18,58 +18,10 @@ toc_icon: "fas fa-utensils"
 <div class="notice">
 <h4>Goal</h4>
 <ul>
-    <li>G1. Setup Github blog for <strong><i>TIL(Today I Learned)</i></strong></li>
-    <li>G2. Setup YouTube channel for <strong><i>Study with Me</i></strong></li>
+    <li>Setup Github blog for <strong><i>TIL(Today I Learned)</i></strong></li>
 </ul>
 </div>
 {: .notice--info}
-
-## Song of the Day
-
-{% include video id="tEFhicnP-eE" provider="youtube" %}
-
-## Why Blog
-
-![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center}
-
-공부해야할 것과 공부하고 싶은 것들이 산더미야.
-블로그에 정리하면서 차근차근 꾸준히 해보자.
-
-<!-- --- -->
-
-<!-- # Eng -->
-
-<!-- 한줄공지 -->
-<!-- **[Notice]** This is important.
-{: .notice--success} -->
-
-<!-- 여러줄공지/개요 -->
-<!-- <div class="notice">
-<h4>Goal</h4>
-<ul>
-    <li>G1. </li>
-    <li>G2. </li>
-    <li>G3. </li>
-</ul>
-</div>
-{: .notice--info} -->
-
-<!-- Let's start a **blog**. -->
-
-<!-- ![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center} -->
-
-<!-- 버튼 -->
-<!-- [Button](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes){: .btn .btn--danger} -->
-
-<!-- 유투브 -->
-
-<!-- 이미지(절대경로) -->
-<!-- ![sleepy-cat]({{site.url}}/images/2024-01-28-starting-blog/sleepy-cat.gif) -->
-
-<!-- 코드 -->
-<!-- ```python
-print("Hello, world!")
-``` -->
 
 ## VSCode Extension
 
@@ -95,3 +47,4 @@ print("Hello, world!")
 - Michael Rose, [Minimal Mistakes](https://github.com/topics/jekyll-theme)
 - Michael Rose, [Minimal Mistakes Documentation](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 - 박병수, [깃허브 블로그 다국어 지원하기](https://byeongsupark.github.io/blog/multilingual-github-page/jekyll-with-polyglot)
+- choiiis, [minimal-mistakes-choiiis-customized](https://github.com/choiiis/minimal-mistakes-choiiis-customized)

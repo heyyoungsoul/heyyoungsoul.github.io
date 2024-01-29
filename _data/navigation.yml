@@ -40,21 +40,29 @@ counts:
     use: false
 
 categories:
-  - title: "Unity 3D"
-    url: /categories/unity/
-  - title: "Python"
-    url: /categories/python/
+  # - title: "Unity 3D"
+  #   url: /categories/unity/
+
+  # - title: "Python"
+  #   url: /categories/python/
+
   - title: "Machine Learning"
     url: /categories/machine-learning/
+
   - title: "WSL"
     url: /categories/wsl/
-  - title: "Git"
-    url: /categories/git/
+
+  # - title: "Git"
+  #   url: /categories/git/
+
   - title: "GitHub Blog"
     url: /categories/github-blog/
-  - title: "Blender"
-    url: /categories/blender/
-  - title: "Nuke"
-    url: /categories/nuke/
+
+  # - title: "Blender"
+  #   url: /categories/blender/
+
+  # - title: "Nuke"
+  #   url: /categories/nuke/
+
   - title: "Diary"
     url: /categories/diary/

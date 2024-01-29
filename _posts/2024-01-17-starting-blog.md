@@ -20,9 +20,12 @@ toc_icon: "fas fa-utensils"
 ![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center}
 
 블로그 시작해볼까
+{: .align-center}
 
 ...
+
 ...
+
 ...
 
 <!-- 이미지(절대경로) -->
@@ -30,7 +33,9 @@ toc_icon: "fas fa-utensils"
 ## Hours Later
 
 ![sleepy-cat]({{site.url}}/images/2024-01-17-starting-blog/sleepy-cat.gif){: .img-width-half .align-center}
+
 To be continued...
+{: .align-center}
 
 ## Song of the Day
 

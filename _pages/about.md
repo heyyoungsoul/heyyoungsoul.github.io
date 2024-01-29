@@ -5,10 +5,8 @@ layout: single
 comments: false
 ---
 
-- 👋 Hi, I'm @heyyoungsoul.
-
 <div>
-    <img src="https://media1.tenor.com/m/S_Hyrbck55gAAAAC/computer-busy.gif" alt="busy-cat" width="50%" min-width="100px" itemprop="image">
+    <img src="https://media1.tenor.com/m/S_Hyrbck55gAAAAC/computer-busy.gif" alt="busy-cat" width="30%" itemprop="image">
 </div>
 
 <div style="border-left: 2px solid rgba(199, 198, 198, 0.7); margin: 0.5em 0 0 0.5em; padding-left: 1.5em; font-weight: 500;">

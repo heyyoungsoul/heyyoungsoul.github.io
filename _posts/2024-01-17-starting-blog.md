@@ -15,17 +15,21 @@ toc_icon: "fas fa-utensils"
 # toc_label: content
 ---
 
-![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif)
-{: .img-width-half .align-center}
+## Start
+
+![busy-cat](https://media.tenor.com/bxe8Qsx3UusAAAAM/cat.gif){: .img-width-half .align-center}
 
 블로그 시작해볼까
 
 ...
+...
+...
 
 <!-- 이미지(절대경로) -->
 
-![sleepy-cat]({{site.url}}/images/2024-01-17-starting-blog/sleepy-cat.gif)
-{: .img-width-half .align-center}
+## Hours Later
+
+![sleepy-cat]({{site.url}}/images/2024-01-17-starting-blog/sleepy-cat.gif){: .img-width-half .align-center}
 To be continued...
 
 ## Song of the Day

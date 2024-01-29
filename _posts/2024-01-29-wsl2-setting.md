@@ -67,8 +67,8 @@ toc_icon: "fas fa-utensils"
       - Source가 Window.Terminal.Wsl인 경우 → 윈도우 사용자 디렉토리로 설정
         - `"startingDirectory": "//mnt/c/Users/jhyvf"`
         - `"startingDirectory": "//mnt/c/Projects"`
-  - [같은 ubuntu wsl2가 버그로 두 개가 생김](https://superuser.com/questions/1737942/different-profiles-of-the-same-wsl2-linux-instance-in-windows-terminal).
-    -> 윈도우 디렉토리에 접근 가능한 Wsl꺼를 쓰기로 결정. 하나는 hidden.
+  - [같은 ubuntu wsl2가 버그로 두 개가 생김](https://superuser.com/questions/1737942/different-profiles-of-the-same-wsl2-linux-instance-in-windows-terminal).  
+    -> 윈도우 디렉토리에 접근 가능한 Wsl꺼를 쓰기로 결정. 하나는 hidden.  
     -> 아래는 나의 현재 터미널 세팅의 두 개의 우분투 시작 경로:
 
     ```json
@@ -142,15 +142,33 @@ toc_icon: "fas fa-utensils"
 - 일괄적용하기 위해 default에 적용할 것
   -> 그런데 바라던 컬러가 안 나옴. 이건 윈도우 자체 한계 때문임. 따라서 terminal splash에 보이는 컬러를 그대로 적용하려면 powerlevel10k를 깔아야 함.
 
-### 3-5. powerlevel10k 설치하기
+### 3-5. terminal splash 제대로 적용하기 위해 powerlevel10k 설치하기
 
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)란, 우리가 설치한 터미널인 zsh 셀을 위한 테마임.
 - oh my zsh를 통해 설치
   ```
   sudo git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
   ```
-- activate하려면 ~/.zshrc 파일에서 `ZSH_THEME="powerlevel10k/powerlevel10k"` 라고 설정해줘야함
-  - (To be continued)
+- Powerlevel10k를 activate하려면 ~/.zshrc 파일에서 zsh의 theme으로 설정해줘야함
+  - .zshrc(z shell run command) 파일은 oh my zsh 쉘에 대한 모든 configuration이 들어있는 파일임.
+  - .zshrc파일은 우분투의 최상위 경로인 root경로(~)에 있음. vscode로 열기.
+    ```
+    code ~/.zshrc
+    ```
+    ```
+    ZSH_THEME="powerlevel10k/powerlevel10k"
+    ```
+  - 윈도우 터미널 껐다가 켜면 powerlevel10k configuration이 뜨면서 does it look like a diamond?라고 물음.
+  - 만약 이 문구가 다이아몬드로 안 보이고 네모로 보이면 폰트 문제임.
+    - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) 깃허브에서 "window terminal" 검색하면 폰트 어떻게 바꾸라고 나옴.
+      - 거기 있는 `MesloLGS NF` 폰트들 다운받아서 열고 설치
+      - 윈도우 터미널의 Setting.js에 default에 `"fontFace": "MesloLGS NF"`
+      - Vscode의 setting에서도 terminal integrated font family에 `MesloLGS NF` 넣어주기
+  - 원하는 대로 설치 진행
+    - 예시: y,y,y , rainbow, unicode, 2, 1, 1, 1, 1, 1, 2, concise, no, Instant Prompt(3)
+  - wt에서 잘 되는 지 확인
+  - vscode에서 잘 되는 지 확인
+    - (To be continued)
 
 ## Reference
 

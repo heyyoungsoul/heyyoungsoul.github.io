@@ -15,13 +15,13 @@ toc_icon: "fas fa-utensils"
 # toc_label: content
 ---
 
-<div class="notice">
+<!-- <div class="notice">
 <h4>Goal</h4>
 <ul>
     <li>Setup Github blog for <strong><i>TIL(Today I Learned)</i></strong></li>
 </ul>
 </div>
-{: .notice--info}
+{: .notice--info} -->
 
 ## VSCode Extension
 

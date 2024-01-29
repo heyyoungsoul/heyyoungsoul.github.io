@@ -2,8 +2,10 @@
 layout: single
 title: "Starting a blog"
 date: 2024-01-28 09:01:00 +0900
-categories: blog
-# tag: blog # [diary, blog]
+categories:
+  - GitHub Blog
+tags:
+  - [GitHub Blog]
 # se_math: true
 # search: false
 # use_math: false

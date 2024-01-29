@@ -2,10 +2,10 @@
 main:
   - title: "Home"
     url: "https://heyyoungsoul.github.io"
-  # - title: "Category"
-  #   url: /categories/
-  - title: "Tag"
-    url: /tags/
+  - title: "Category"
+    url: /categories/
+  # - title: "Tag"
+  #   url: /tags/
   - title: "Year"
     url: /year-archive/
   # - title: "Year(grid)"
@@ -33,6 +33,6 @@ docs:
 
 counts:
   - title: "Category"
-    use: false
-  - title: "Tag"
     use: true
+  - title: "Tag"
+    use: false

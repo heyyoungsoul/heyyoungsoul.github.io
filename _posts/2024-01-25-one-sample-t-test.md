@@ -2,8 +2,12 @@
 layout: single
 title: "One Sample T-Test"
 date: 2024-01-25 09:01:00 +0900
-# categories: analysis
-tag: [statistics, python, jupyter]
+categories: statistics
+# tag: [statistics, python, jupyter]
+toc: true
+toc_sticky: true
+toc_icon: "fas fa-utensils"
+# toc_label: content
 ---
 
 <head>

@@ -285,15 +285,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: # true
       comments: true
-      share: true
-      related: true
+      # share: true
+      # related: true
       show_date: true
-      toc: true
-      toc_sticky: true
-      toc_label: content
-      toc_icon: "fas fa-utensils"
       author_profile: false
       sidebar:
         nav: "counts"

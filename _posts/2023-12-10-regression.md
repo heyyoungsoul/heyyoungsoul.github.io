@@ -2,9 +2,13 @@
 layout: single
 title: "머신러닝 회귀 예측"
 date: 2023-12-10 09:01:00 +0900
-# categories: study
-tag: ML
+categories: ML
+# tag: ML
 use_math: true
+toc: true
+toc_sticky: true
+toc_icon: "fas fa-utensils"
+# toc_label: content
 ---
 
 <head>

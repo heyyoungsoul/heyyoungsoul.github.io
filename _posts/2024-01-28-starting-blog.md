@@ -2,11 +2,15 @@
 layout: single
 title: "Starting a blog"
 date: 2024-01-28 09:01:00 +0900
-# categories: personal
-tag: blog # [diary, blog]
+categories: blog
+# tag: blog # [diary, blog]
 # se_math: true
 # search: false
 # use_math: false
+toc: true
+toc_sticky: true
+toc_icon: "fas fa-utensils"
+# toc_label: content
 ---
 
 <div class="notice">

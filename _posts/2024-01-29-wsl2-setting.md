@@ -23,8 +23,6 @@ toc_icon: "fas fa-utensils"
   - window powershell 관리자 실행
   - chocolately를 설치
 
-    {% include codeHeader.html %}
-
     ```PowerShell
       Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
     ```
@@ -36,8 +34,6 @@ toc_icon: "fas fa-utensils"
 ## Reference
 
 - 노마드 코더, [개발자를 위한 윈도우 셋업 WSL2, Window Terminal, Ubuntu](https://nomadcoders.co/windows-setup-for-developers)-
-
-{% include codeHeader.html %}
 
 ```html
 <div class="code-header">

@@ -8,7 +8,7 @@ and page.header.video.provider %} {% include page__hero_video.html %} {% endif
 %} {% assign breadcrumbs_enabled = site.breadcrumbs %} {% if page.breadcrumbs !=
 null %} {% assign breadcrumbs_enabled = page.breadcrumbs %} {% endif %} {% if
 page.url != "/" and breadcrumbs_enabled %} {% unless paginator %} {% include
-breadcrumbs.html %} {% endunless %} {% endif %}\
+breadcrumbs.html %} {% endunless %} {% endif %}
 
 <div id="main" role="main">
   {% include sidebar.html %}
